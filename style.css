@@ -150,3 +150,15 @@ footer a {
         max-width: 250px;
     }
 }
+
+.price-card {
+    background: #4f46e5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+     transition: transform 0.5s cubic-bezier(.4,2,.3,1); 
+}
+
+.price-card:hover {
+    transform: rotate(6deg); 
+}
