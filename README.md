@@ -45,3 +45,10 @@ It was created as part of a remote internship and serves as a portfolio piece.
 Clone this repository
 
 Open index.html in your browser
+
+
+<img width="1919" height="1003" alt="Capture d'écran 2025-08-05 045918" src="https://github.com/user-attachments/assets/cf2d5499-ea9b-4d95-bad4-fd56d32aad32" />
+
+
+<img width="1919" height="1079" alt="Capture d'écran 2025-08-05 050051" src="https://github.com/user-attachments/assets/3eae8737-4f62-4d78-bdee-3a75a69c0187" />
+
